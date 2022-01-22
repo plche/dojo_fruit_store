@@ -1,0 +1,15 @@
+.container-fluid.flex {
+    margin: 30px auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.wrapper > img {
+    height: 150px;
+    width: 150px;
+}
+
+.wrapper > h5 {
+    margin-top: 10px;
+}
